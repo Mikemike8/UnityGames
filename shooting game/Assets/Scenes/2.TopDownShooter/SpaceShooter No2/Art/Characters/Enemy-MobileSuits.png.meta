@@ -1,0 +1,978 @@
+fileFormatVersion: 2
+guid: da70c18f160085748a9bcc72f4a19d97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2814123769149811120
+    second: Enemy-MobileSuits_0
+  - first:
+      213: 5451975581943342258
+    second: Enemy-MobileSuits_1
+  - first:
+      213: -3873442792348805257
+    second: Enemy-MobileSuits_2
+  - first:
+      213: -7558615023922350970
+    second: Enemy-MobileSuits_3
+  - first:
+      213: -1771796744693614619
+    second: Enemy-MobileSuits_4
+  - first:
+      213: -4165337306001116738
+    second: Enemy-MobileSuits_5
+  - first:
+      213: 2020569929090433756
+    second: Enemy-MobileSuits_6
+  - first:
+      213: 9107881812917790242
+    second: Enemy-MobileSuits_7
+  - first:
+      213: -2618712475429978150
+    second: Enemy-MobileSuits_8
+  - first:
+      213: -1314430046102567960
+    second: Enemy-MobileSuits_9
+  - first:
+      213: 1454845269603821273
+    second: Enemy-MobileSuits_10
+  - first:
+      213: 1806872315240305951
+    second: Enemy-MobileSuits_11
+  - first:
+      213: -4704704912563763258
+    second: Enemy-MobileSuits_12
+  - first:
+      213: 4330066601527920091
+    second: Enemy-MobileSuits_13
+  - first:
+      213: -7299472073693110074
+    second: Enemy-MobileSuits_14
+  - first:
+      213: 2492003226621957884
+    second: Enemy-MobileSuits_15
+  - first:
+      213: -3079729763889063829
+    second: Enemy-MobileSuits_16
+  - first:
+      213: -6502944894671835506
+    second: Enemy-MobileSuits_17
+  - first:
+      213: 4767709529320231449
+    second: Enemy-MobileSuits_18
+  - first:
+      213: -2116456709230358502
+    second: Enemy-MobileSuits_19
+  - first:
+      213: 6895350620263779546
+    second: Enemy-MobileSuits_20
+  - first:
+      213: 4560159797983114376
+    second: Enemy-MobileSuits_21
+  - first:
+      213: -6640801403207794518
+    second: Enemy-MobileSuits_22
+  - first:
+      213: -3684113972520772288
+    second: Enemy-MobileSuits_23
+  - first:
+      213: 6569760888107490825
+    second: Enemy-MobileSuits_24
+  - first:
+      213: -864499464261480017
+    second: Enemy-MobileSuits_25
+  - first:
+      213: 2559816670575844582
+    second: Enemy-MobileSuits_26
+  - first:
+      213: 376132259535961215
+    second: Enemy-MobileSuits_27
+  - first:
+      213: -2009904636344674457
+    second: Enemy-MobileSuits_28
+  - first:
+      213: -2336824393198235252
+    second: Enemy-MobileSuits_29
+  - first:
+      213: -931514188415780110
+    second: Enemy-MobileSuits_30
+  - first:
+      213: 9169425122552527286
+    second: Enemy-MobileSuits_31
+  - first:
+      213: 4308897906941428640
+    second: Enemy-MobileSuits_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1404
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3855deec95954da19823d109010ae
+      internalID: -1807875012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1404
+        width: 177
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab4046b91e07541b3ae0473de787e8
+      internalID: 513461597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1404
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54e57added269478a4413a4f58792c
+      internalID: 15826524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1404
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3297d6763ce7459603936564dbcfb
+      internalID: -558481302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1404
+        width: 165
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b61ec6b9f8914ab8570740e198961
+      internalID: -1894887486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1203
+        width: 141
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594a4763d6962d4faffa2ca939d21d5
+      internalID: 531973850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1203
+        width: 141
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d62e9987e5b6b4999517f4b85cbce0
+      internalID: 1875716820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1203
+        width: 141
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc086a022f9a442936390a23070c9c
+      internalID: 293496341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1203
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db90d663d81e44a8c9e9e9b7371ff0
+      internalID: -519832005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1002
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889b6b3661992a42ba17122eb5af53c
+      internalID: -877630073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1002
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e047c4e5d83f924fb3c11f4c3802aa3
+      internalID: 50625671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1002
+        width: 165
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f81b0805f9a4248bff43466ca63f5f
+      internalID: -1655562743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1041
+        width: 156
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a7b9c9d12baf479314e19a5a70f2b
+      internalID: 1674529906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1002
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a706d97f50ca45952ce972ddf2cf3
+      internalID: -9729315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1002
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfa7d8d0a54064c9031797b50d1174
+      internalID: -739259080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 801
+        width: 120
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe0d800e4d97a4aaae8ca64df986b8
+      internalID: 982392688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 801
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875954904df41e24eb2fb15c3cc4cc07
+      internalID: 155530425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 801
+        width: 186
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e18c1fbdbf30445aa598c739fd58c5
+      internalID: -1254445760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 762
+        width: 234
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f3ad9ad7d6ccd45a49edd58db64bc4
+      internalID: 1300860300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e8bffeb59741419a50628ea28413b
+      internalID: -1980467912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 600
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0e13f0b0fdb747ac9bf42fdea1146
+      internalID: -720494760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 603
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1af211c389f945bde399ce099f7fb
+      internalID: -1653688611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 603
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b2faa3db7796499d1006dd5f1f720
+      internalID: 1858828485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 603
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4c028db05c514fa1c67d88c42704e
+      internalID: -1177151571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 399
+        width: 117
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c342f83e5796a49a225d7ec93ea2f9
+      internalID: 1773211356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 399
+        width: 117
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a436c9532d6c442b8606e7ef8a1426
+      internalID: -1372472856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 399
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c9a1a7dc72a04eb8d49572f6bdc54
+      internalID: 2074596361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 399
+        width: 276
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7450fa6707d650499657a14466186e3
+      internalID: 384732087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 380
+        width: 272
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40248d79f35dd974bab80a56e4c43b56
+      internalID: -956924134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 198
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540e5aac6e43f14e8b42fad81768b2c
+      internalID: -2119087634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 198
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e04d94fac19d4b8ee585571ec194b
+      internalID: -1087231251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 198
+        width: 123
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39adb7d7ee5fab24d9dae77c9f805b74
+      internalID: -423616639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-MobileSuits_32
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 198
+        width: 174
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0edadf384544641ba3002b873998ce
+      internalID: -871542860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1c970e2ed38bc34db5111d727730e4f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy-MobileSuits_0: -1807875012
+      Enemy-MobileSuits_1: 513461597
+      Enemy-MobileSuits_10: 50625671
+      Enemy-MobileSuits_11: -1655562743
+      Enemy-MobileSuits_12: 1674529906
+      Enemy-MobileSuits_13: -9729315
+      Enemy-MobileSuits_14: -739259080
+      Enemy-MobileSuits_15: 982392688
+      Enemy-MobileSuits_16: 155530425
+      Enemy-MobileSuits_17: -1254445760
+      Enemy-MobileSuits_18: 1300860300
+      Enemy-MobileSuits_19: -1980467912
+      Enemy-MobileSuits_2: 15826524
+      Enemy-MobileSuits_20: -720494760
+      Enemy-MobileSuits_21: -1653688611
+      Enemy-MobileSuits_22: 1858828485
+      Enemy-MobileSuits_23: -1177151571
+      Enemy-MobileSuits_24: 1773211356
+      Enemy-MobileSuits_25: -1372472856
+      Enemy-MobileSuits_26: 2074596361
+      Enemy-MobileSuits_27: 384732087
+      Enemy-MobileSuits_28: -956924134
+      Enemy-MobileSuits_29: -2119087634
+      Enemy-MobileSuits_3: -558481302
+      Enemy-MobileSuits_30: -1087231251
+      Enemy-MobileSuits_31: -423616639
+      Enemy-MobileSuits_32: -871542860
+      Enemy-MobileSuits_4: -1894887486
+      Enemy-MobileSuits_5: 531973850
+      Enemy-MobileSuits_6: 1875716820
+      Enemy-MobileSuits_7: 293496341
+      Enemy-MobileSuits_8: -519832005
+      Enemy-MobileSuits_9: -877630073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 03ae84fa71d522341896e30a7404c91d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4234178595774654442
+    second: GundamSprites_0
+  - first:
+      213: -4534878330242885615
+    second: GundamSprites_1
+  - first:
+      213: -5057364320816915828
+    second: GundamSprites_2
+  - first:
+      213: -6891242981710731264
+    second: GundamSprites_3
+  - first:
+      213: 426237924329082315
+    second: GundamSprites_4
+  - first:
+      213: 354232666419973983
+    second: GundamSprites_5
+  - first:
+      213: 6480999432950918646
+    second: GundamSprites_6
+  - first:
+      213: 8489327450996565396
+    second: GundamSprites_7
+  - first:
+      213: -760224063349660698
+    second: GundamSprites_8
+  - first:
+      213: 3217870821231703962
+    second: GundamSprites_9
+  - first:
+      213: 6036396122053034334
+    second: GundamSprites_10
+  - first:
+      213: 5248789718073116568
+    second: GundamSprites_11
+  - first:
+      213: 4810686809322516637
+    second: GundamSprites_12
+  - first:
+      213: -1874612347306777316
+    second: GundamSprites_13
+  - first:
+      213: -2197248204836695434
+    second: GundamSprites_14
+  - first:
+      213: 1546583278171830797
+    second: GundamSprites_15
+  - first:
+      213: 1831703509035989990
+    second: GundamSprites_16
+  - first:
+      213: -1016037799097779943
+    second: GundamSprites_17
+  - first:
+      213: 8485165655936389021
+    second: GundamSprites_18
+  - first:
+      213: -6731664233514333308
+    second: GundamSprites_19
+  - first:
+      213: 6427199784092706687
+    second: GundamSprites_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GundamSprites_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 956
+        width: 245
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1f50ad6db64749afcc0adb6215beb
+      internalID: -174512222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 947
+        width: 407
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07329f662963f148a8588891a1d4345
+      internalID: -1661452691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 956
+        width: 325
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ebdeb8ff3ab041935d005486c0a26
+      internalID: -149275453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 730
+        width: 408
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f6087d34cd94419baa8156b84fea6
+      internalID: -431205617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 753
+        width: 270
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25216cee767d6bd438e7603a8a20a8f0
+      internalID: -626920630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 746
+        width: 408
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd3b852f66e134cad0bf5c10736ffb
+      internalID: 422935321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_6
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 729
+        width: 411
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d317721a929604d8ef029ddfa800bc
+      internalID: -1688250252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 550
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d725794f7df51b43afd23a802f23cf2
+      internalID: 1350903328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 550
+        width: 357
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a015366cbc00384ba762e3dbcd6bcca
+      internalID: 1417766352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 549
+        width: 432
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d587720dfa5eb14395812a931376f8b
+      internalID: 1529348366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 551
+        width: 283
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09db5167651d84191dee438369c847
+      internalID: -777165872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 529
+        width: 393
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5809bf453455b4ebe922c70768ffdf
+      internalID: 1317731610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 345
+        width: 168
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdfe786e812cf94da2f4c08a68b7a95
+      internalID: -65960641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 346
+        width: 285
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed34d7529a41c4395280d6eee3803b
+      internalID: -535845835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 344
+        width: 364
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d1fb4053da25438d571920806b78e
+      internalID: 1592229852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 346
+        width: 244
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c308aa494e3349a96a3d95fe9b976
+      internalID: -1605977277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_16
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 292
+        width: 410
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb2efcc8dad9b40863cff25be6272d
+      internalID: -983653766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 289
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac300d36e7def4bb7cbaa595904869
+      internalID: 1253320091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 338
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e28bfb1cb0768459cf4d4532960f99
+      internalID: -2070627511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 142
+        width: 288
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49cc9a0bcb671e49a38179ba8c33e07
+      internalID: -744476301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GundamSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 86
+        width: 453
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76fb6a7a169d194d9ce77bb1c59f797
+      internalID: 1447530150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efd0cce4ef219b541a1f174457fcb98f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GundamSprites_0: -174512222
+      GundamSprites_1: -1661452691
+      GundamSprites_10: -777165872
+      GundamSprites_11: 1317731610
+      GundamSprites_12: -65960641
+      GundamSprites_13: -535845835
+      GundamSprites_14: 1592229852
+      GundamSprites_15: -1605977277
+      GundamSprites_16: -983653766
+      GundamSprites_17: 1253320091
+      GundamSprites_18: -2070627511
+      GundamSprites_19: -744476301
+      GundamSprites_2: -149275453
+      GundamSprites_20: 1447530150
+      GundamSprites_3: -431205617
+      GundamSprites_4: -626920630
+      GundamSprites_5: 422935321
+      GundamSprites_6: -1688250252
+      GundamSprites_7: 1350903328
+      GundamSprites_8: 1417766352
+      GundamSprites_9: 1529348366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
